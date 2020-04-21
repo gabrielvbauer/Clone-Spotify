@@ -32,7 +32,6 @@ header {
     position: fixed;
     top: 0;
     background-color: rgba(50, 50, 50, 0.7);
-    transition: 1s;
 }
 
 .brand-logo {
@@ -43,7 +42,6 @@ header {
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
-    transition: 1s;
 }
 
 header .menu li a:hover {
